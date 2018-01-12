@@ -9,7 +9,7 @@ import json
 import requests
 
 #Change to your Meraki API Key
-APIKey = ""
+APIKey = "YOUR API KEY HERE"
 
 #HTTPS Header Params
 headers = {'X-Cisco-Meraki-API-Key' : APIKey , 'Content-Type' : 'application/json'}
